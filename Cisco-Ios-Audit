@@ -1,4 +1,4 @@
-#!/usr/bin/python -tt
+#!/usr/bin/python
 
 # cisco-ios-audit parses a Cisco IOS configuration file and generates a report 
 # to efficiently perform an IT Security Audit
